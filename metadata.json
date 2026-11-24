@@ -1,0 +1,6 @@
+{
+  "name": "Petal & Sage POS",
+  "description": "Offline-capable Touch-Screen POS for Fresh Flowers Boutique with 80mm thermal receipt printing, local inventory management, and sales history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
